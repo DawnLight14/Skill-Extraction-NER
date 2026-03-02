@@ -159,7 +159,7 @@ All stages are implemented in a single notebook with clear sections:
 3. Install dependencies:
 
 ```bash
-pip install transformers torch seqeval scikit-learn pandas numpy matplotlib
+pip install -r requirements.txt
 ```
 
 4. Open and run:
