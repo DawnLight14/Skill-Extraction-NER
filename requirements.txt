@@ -1,0 +1,6 @@
+transformers
+seqeval
+matplotlib
+plotly
+numpy
+pandas
