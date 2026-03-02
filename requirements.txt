@@ -1,6 +1,12 @@
 transformers
+datasets
+torch
 seqeval
+scikit-learn
 matplotlib
+seaborn
 plotly
-numpy
 pandas
+numpy
+tqdm
+termcolor
